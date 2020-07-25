@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/Volumes/case_sencitive/compiler/.build/aarch64-rpi3-linux-gnu/src/gcc/configure --build=x86_64-build_apple-darwin17.7.0 --host=x86_64-build_apple-darwin17.7.0 --target=aarch64-rpi3-linux-gnu --prefix=/Volumes/case_sencitive/x-tools/aarch64-rpi3-linux-gnu --with-sysroot=/Volumes/case_sencitive/x-tools/aarch64-rpi3-linux-gnu/aarch64-rpi3-linux-gnu/sysroot --enable-languages=c,c++ --with-cpu=cortex-a53 --with-pkgversion='crosstool-NG 1.24.0' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/Volumes/case_sencitive/compiler/.build/aarch64-rpi3-linux-gnu/buildtools --with-mpfr=/Volumes/case_sencitive/compiler/.build/aarch64-rpi3-linux-gnu/buildtools --with-mpc=/Volumes/case_sencitive/compiler/.build/aarch64-rpi3-linux-gnu/buildtools --with-isl=/Volumes/case_sencitive/compiler/.build/aarch64-rpi3-linux-gnu/buildtools --enable-lto --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/Volumes/case_sencitive/x-tools/aarch64-rpi3-linux-gnu/aarch64-rpi3-linux-gnu/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a53" } };
